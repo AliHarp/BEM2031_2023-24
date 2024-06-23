@@ -1,13 +1,20 @@
 project:
   type: website
+    preview:
+      browser: true
 
 website:
-  title: "BEM2031_2023_24"
+  title: "BEM2031 materials for 2023/24"
+  author: "Alison Harper"
+  favicon: "images/welcome.png"
   navbar:
+    logo: "images/welcome.png"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: Lecture Slides
+        href: quarto_2023_4/Weekly_lectures/L1.qmd
 
 format:
   html:
