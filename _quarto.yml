@@ -1,20 +1,47 @@
 project:
   type: website
-    preview:
-      browser: true
+  preview:
+    browser: true
 
 website:
   title: "BEM2031 materials for 2023/24"
-  author: "Alison Harper"
-  favicon: "images/welcome.png"
+  favicon: "quarto_2023_4/images/bulb2.png"
   navbar:
-    logo: "images/welcome.png"
+    logo: "quarto_2023_4/images/bulb2.png"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: Lecture Slides
-        href: quarto_2023_4/Weekly_lectures/L1.qmd
+      - text: Lecture slides
+        menu:
+          - text: Lecture Slides Week 1
+            href: quarto_2023_4/Weekly_lectures/L1.qmd
+          - text: Lecture Slides Week 2
+            href: quarto_2023_4/Weekly_lectures/L2.qmd
+          - text: Lecture Slides Week 3
+            href: quarto_2023_4/Weekly_lectures/L3.qmd
+          - text: Lecture Slides Week 4
+            href: quarto_2023_4/Weekly_lectures/L4.qmd
+          - text: Lecture Slides Week 5
+            href: quarto_2023_4/Weekly_lectures/L5.qmd
+          - text: Lecture Slides Week 7
+            href: quarto_2023_4/Weekly_lectures/L7.qmd
+          - text: Lecture Slides Week 8
+            href: quarto_2023_4/Weekly_lectures/L8.qmd
+          - text: Lecture Slides Week 9
+            href: quarto_2023_4/Weekly_lectures/L9.qmd
+          - text: Lecture Slides Week 10
+            href: quarto_2023_4/Weekly_lectures/L10.qmd
+          - text: Lecture Slides Week 11
+            href: quarto_2023_4/Weekly_lectures/L11.qmd
+      - text: Seminar material
+        menu:
+          - text: Seminars Week 1
+            href: quarto_2023_4/Weekly_seminars/S1.qmd
+          - text: Seminars Week 2
+            href: quarto_2023_4/Weekly_seminars/S2.qmd
+             
+         
 
 format:
   html:

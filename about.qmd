@@ -1,9 +1,8 @@
 ---
-title: "About"
+title: "Module Handbook 2023-24"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+<iframe width="100%" height="800" src="quarto_2023_4/handbook.pdf">
+
+</iframe>

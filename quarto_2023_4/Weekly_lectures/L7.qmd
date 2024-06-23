@@ -1,0 +1,13 @@
+---
+title: "Lecture 7"
+author: "Alison Harper"
+format: html
+editor: visual
+---
+
+::: {.callout-tip title="Lecture 7 materials for 2023_2024:" collapse=true}
+
+<iframe width="100%" height="800" src="BEM2031_Lecture_7.pdf">
+
+</iframe>\
+:::

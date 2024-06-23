@@ -1,0 +1,14 @@
+---
+title: "Week 2 Seminar"
+author: "Alison Harper"
+format: html
+editor: visual
+---
+
+::: {.callout-tip title="Seminar 2 materials for 2023_2024: Introduction" collapse=true}
+
+<iframe width="100%" height="800" src="week_02_data_management.pdf">
+
+</iframe>
+
+:::
