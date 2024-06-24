@@ -2,9 +2,7 @@ project:
   type: website
   preview:
     browser: true
-    
-execute:
-  freeze: auto
+
 
 website:
   title: "BEM2031 materials for 2023/24"
