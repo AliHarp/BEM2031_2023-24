@@ -1,3 +1,3 @@
 # BEM2031
 
-These are the materials for Week 1
+Materials for lectures and seminars for BEM2031 for 2023-24 academic year.
