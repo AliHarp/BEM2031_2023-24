@@ -4,6 +4,6 @@ title: "BEM2031_2023_24"
 
 This website contains all of the materials for BEM2031 for 20234-24.
 
-<iframe width="100%" height="800" src="quarto_2023_4/images/welcome.png">
+<iframe width="100%" src="quarto_2023_4/images/welcome.png">
 
 </iframe>
