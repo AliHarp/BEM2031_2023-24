@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BEM2031_2023_24",
+    "section": "",
+    "text": "This website contains all of the materials for BEM2031 for 20234-24."
+  },
+  {
+    "objectID": "quarto_2023_4/Weekly_seminars/S2.html",
+    "href": "quarto_2023_4/Weekly_seminars/S2.html",
+    "title": "Week 2 Seminar",
+    "section": "",
+    "text": "Seminar 2 materials for 2023_2024: Introduction"
+  },
+  {
     "objectID": "quarto_2023_4/Weekly_seminars/S1.html",
     "href": "quarto_2023_4/Weekly_seminars/S1.html",
     "title": "Week 1 Seminar",
@@ -28,13 +42,6 @@
     "text": "Lecture 8 materials for 2023_2024:"
   },
   {
-    "objectID": "quarto_2023_4/Weekly_lectures/L11.html",
-    "href": "quarto_2023_4/Weekly_lectures/L11.html",
-    "title": "Lecture 11",
-    "section": "",
-    "text": "Lecture 11 materials for 2023_2024:"
-  },
-  {
     "objectID": "quarto_2023_4/Weekly_lectures/L10.html",
     "href": "quarto_2023_4/Weekly_lectures/L10.html",
     "title": "Lecture 10",
@@ -42,18 +49,11 @@
     "text": "Lecture 10 materials for 2023_2024:"
   },
   {
-    "objectID": "quarto_2023_4/Weekly_lectures/L3.html",
-    "href": "quarto_2023_4/Weekly_lectures/L3.html",
-    "title": "Lecture 3",
+    "objectID": "quarto_2023_4/Weekly_lectures/L11.html",
+    "href": "quarto_2023_4/Weekly_lectures/L11.html",
+    "title": "Lecture 11",
     "section": "",
-    "text": "Lecture 3 materials for 2023_2024:"
-  },
-  {
-    "objectID": "quarto_2023_4/Weekly_lectures/L7.html",
-    "href": "quarto_2023_4/Weekly_lectures/L7.html",
-    "title": "Lecture 7",
-    "section": "",
-    "text": "Lecture 7 materials for 2023_2024:"
+    "text": "Lecture 11 materials for 2023_2024:"
   },
   {
     "objectID": "quarto_2023_4/Weekly_lectures/L4.html",
@@ -70,11 +70,11 @@
     "text": "Lecture 2 materials for 2023_2024:"
   },
   {
-    "objectID": "quarto_2023_4/Weekly_lectures/L5.html",
-    "href": "quarto_2023_4/Weekly_lectures/L5.html",
-    "title": "Lecture 5",
+    "objectID": "quarto_2023_4/Weekly_lectures/L7.html",
+    "href": "quarto_2023_4/Weekly_lectures/L7.html",
+    "title": "Lecture 7",
     "section": "",
-    "text": "Lecture 5 materials for 2023_2024:"
+    "text": "Lecture 7 materials for 2023_2024:"
   },
   {
     "objectID": "quarto_2023_4/Weekly_lectures/L6.html",
@@ -82,6 +82,13 @@
     "title": "Lecture 6",
     "section": "",
     "text": "Lecture 1 materials for 2023_2024:"
+  },
+  {
+    "objectID": "quarto_2023_4/Weekly_lectures/L5.html",
+    "href": "quarto_2023_4/Weekly_lectures/L5.html",
+    "title": "Lecture 5",
+    "section": "",
+    "text": "Lecture 5 materials for 2023_2024:"
   },
   {
     "objectID": "quarto_2023_4/Weekly_lectures/L9.html",
@@ -98,17 +105,24 @@
     "text": "Lecture 1 materials for 2023_2024:"
   },
   {
-    "objectID": "quarto_2023_4/Weekly_seminars/S2.html",
-    "href": "quarto_2023_4/Weekly_seminars/S2.html",
-    "title": "Week 2 Seminar",
+    "objectID": "quarto_2023_4/Weekly_lectures/L3.html",
+    "href": "quarto_2023_4/Weekly_lectures/L3.html",
+    "title": "Lecture 3",
     "section": "",
-    "text": "Seminar 2 materials for 2023_2024: Introduction"
+    "text": "Lecture 3 materials for 2023_2024:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BEM2031_2023_24",
+    "objectID": "quarto_2023_4/license.html",
+    "href": "quarto_2023_4/license.html",
+    "title": "Open License",
     "section": "",
-    "text": "This website contains all of the materials for BEM2031 for 20234-24."
+    "text": "MIT License\nCopyright (c) 2024 AliHarp\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the “Software”), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  {
+    "objectID": "quarto_2023_4/Weekly_seminars/live_q.html",
+    "href": "quarto_2023_4/Weekly_seminars/live_q.html",
+    "title": "R Example",
+    "section": "",
+    "text": "{{&lt; include ./_extensions/r-wasm/live/_knitr.qmd &gt;}}\n::: {.cell}\n\n```{.webr .cell-code}\nfit = lm(mpg ~ am, data = mtcars)\nsummary(fit)\nplot(fit)\n```\n:::"
   }
 ]
