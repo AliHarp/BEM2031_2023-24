@@ -43,6 +43,12 @@ website:
             href: quarto_2023_4/Weekly_seminars/S1.qmd
           - text: Seminars Week 2
             href: quarto_2023_4/Weekly_seminars/S2.qmd
+          - text: Quarto live
+            href: quarto_2023_4/Weekly_seminars/live_q.qmd
+    right:
+    - text: "License"
+      href: quarto_2023_4/license.qmd
+         
              
          
 
