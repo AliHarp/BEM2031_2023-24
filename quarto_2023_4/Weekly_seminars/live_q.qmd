@@ -10,4 +10,5 @@ format: live-html
     fit = lm(mpg ~ am, data = mtcars)
     summary(fit)
     plot(fit)
+    print("ALISON")
     ```
